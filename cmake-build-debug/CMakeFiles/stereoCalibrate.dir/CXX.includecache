@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/stereo_calib.cpp
+opencv2/calib3d.hpp
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/opencv2/calib3d.hpp
+opencv2/imgcodecs.hpp
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/opencv2/imgcodecs.hpp
+opencv2/highgui.hpp
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/opencv2/highgui.hpp
+opencv2/imgproc.hpp
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/opencv2/imgproc.hpp
+vector
+-
+string
+-
+algorithm
+-
+iostream
+-
+iterator
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+

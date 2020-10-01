@@ -1,0 +1,3 @@
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/cmake-build-debug/CMakeFiles/stereoCalibrate.dir
+/home/liangxiao/XIMEA/package/samples/xiAPIplusOpenCV/stereoCalibrate/cmake-build-debug/CMakeFiles/edit_cache.dir
