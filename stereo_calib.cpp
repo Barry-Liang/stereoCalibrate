@@ -133,7 +133,6 @@ StereoCalib(bool isRGB, const vector<string>& imagelist, Size boardSize, float s
             {
                 cout << filename << endl;
                 Mat cimg, cimg1;
-                if(isRGB)
                 cvtColor(img, cimg, COLOR_GRAY2BGR);
                 drawChessboardCorners(cimg, boardSize, corners, found);
                 double sf = 640./MAX(img.rows, img.cols);
